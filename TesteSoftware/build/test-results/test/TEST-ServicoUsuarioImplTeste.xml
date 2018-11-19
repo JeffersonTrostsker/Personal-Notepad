@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ServicoUsuarioImplTeste" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-11-19T11:32:01" hostname="lab30118" time="0.059">
+  <properties/>
+  <testcase name="testInserirString()" classname="ServicoUsuarioImplTeste" time="0.003"/>
+  <testcase name="testBusca()" classname="ServicoUsuarioImplTeste" time="0.003"/>
+  <testcase name="testRemover()" classname="ServicoUsuarioImplTeste" time="0.003"/>
+  <testcase name="testAtualizar()" classname="ServicoUsuarioImplTeste" time="0.003"/>
+  <testcase name="testListar()" classname="ServicoUsuarioImplTeste" time="0.041"/>
+  <testcase name="testInserir()" classname="ServicoUsuarioImplTeste" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

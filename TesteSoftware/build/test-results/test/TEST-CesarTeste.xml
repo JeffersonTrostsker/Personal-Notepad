@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CesarTeste" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-11-19T11:31:51" hostname="lab30118" time="0.003">
+  <properties/>
+  <testcase name="testEncriptar()" classname="CesarTeste" time="0.001"/>
+  <testcase name="testDecriptar()" classname="CesarTeste" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

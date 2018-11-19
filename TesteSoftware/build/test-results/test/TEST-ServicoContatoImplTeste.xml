@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ServicoContatoImplTeste" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-11-19T11:32:01" hostname="lab30118" time="0.014">
+  <properties/>
+  <testcase name="testBuscarNome()" classname="ServicoContatoImplTeste" time="0.003"/>
+  <testcase name="testRemover()" classname="ServicoContatoImplTeste" time="0.003"/>
+  <testcase name="testAtualizar()" classname="ServicoContatoImplTeste" time="0.003"/>
+  <testcase name="testListar()" classname="ServicoContatoImplTeste" time="0.002"/>
+  <testcase name="testInserir()" classname="ServicoContatoImplTeste" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

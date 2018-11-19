@@ -1,0 +1,12 @@
+=== Teste Smoke na Aplicação ===
+
+O teste smoke na aplicação pode ser dado através da GUI,
+a partir de uma inserção de usuário. Com isso será percorrido
+o caminho:
+
+TelaCadastroUsuarioAgenda -> ServicoUsuarioImpl -> UsuarioDAOImpl
+
+Caso haja algum ponto falho no teste Smoke, será apontado através
+de retornos não esperados, ou até mesmo localizado através de testes
+sistemico, como por exemplo: Não criar users.txt, ou não retornar usuários
+contidos na agenda.

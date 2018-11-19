@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CasosDeTestesContatos" tests="26" skipped="0" failures="0" errors="0" timestamp="2018-11-19T11:31:51" hostname="lab30118" time="0.051">
+  <properties/>
+  <testcase name="EmailTest1()" classname="CasosDeTestesContatos" time="0.025"/>
+  <testcase name="EmailTest2()" classname="CasosDeTestesContatos" time="0.003"/>
+  <testcase name="EmailTest3()" classname="CasosDeTestesContatos" time="0.001"/>
+  <testcase name="EmailTest4()" classname="CasosDeTestesContatos" time="0.002"/>
+  <testcase name="EmailTest5()" classname="CasosDeTestesContatos" time="0.001"/>
+  <testcase name="EmailTest6()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="EmailTest7()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="TelefoneTest1()" classname="CasosDeTestesContatos" time="0.001"/>
+  <testcase name="TelefoneTest2()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="TelefoneTest3()" classname="CasosDeTestesContatos" time="0.001"/>
+  <testcase name="TelefoneTest4()" classname="CasosDeTestesContatos" time="0.001"/>
+  <testcase name="TelefoneTest5()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="TelefoneTest6()" classname="CasosDeTestesContatos" time="0.001"/>
+  <testcase name="TelefoneTest7()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="EnderecoTest1()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="EnderecoTest2()" classname="CasosDeTestesContatos" time="0.001"/>
+  <testcase name="EnderecoTest3()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="EnderecoTest4()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="EnderecoTest5()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="EnderecoTest6()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="EnderecoTest7()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="EnderecoTest8()" classname="CasosDeTestesContatos" time="0.001"/>
+  <testcase name="NomeTest1()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="NomeTest2()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="NomeTest3()" classname="CasosDeTestesContatos" time="0.0"/>
+  <testcase name="NomeTest4()" classname="CasosDeTestesContatos" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InterfaceGraficaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-19T11:31:52" hostname="lab30118" time="8.444">
+  <properties/>
+  <testcase name="testTelaCadastroUsuario()" classname="InterfaceGraficaTest" time="8.444"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
